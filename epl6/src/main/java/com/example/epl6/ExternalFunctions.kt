@@ -11,7 +11,6 @@ import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.core.app.NotificationCompat
 import com.enkod.enkodpushlibrary.EnkodPushLibrary.defaultIconId
-import com.example.epl6.R
 import com.google.firebase.messaging.RemoteMessage
 import java.util.*
 
