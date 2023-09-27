@@ -5,6 +5,7 @@ import android.content.ContentValues
 import android.content.Context
 import android.os.Bundle
 import android.util.Log
+import com.example.epl6.BuildConfig
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.messaging.FirebaseMessaging
 import com.google.firebase.messaging.FirebaseMessagingService
