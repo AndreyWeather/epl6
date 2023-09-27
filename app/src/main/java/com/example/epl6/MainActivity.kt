@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        enkodConnect("andrey_p_client","test_new@enkod.io").start(this)
+        enkodConnect("andrey_p_client","test1_new@enkod.io").start(this)
 
     }
 }
